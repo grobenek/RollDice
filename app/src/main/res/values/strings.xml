@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DiceRoll</string>
+
+    <string name="hodena_hodnota">Hodena hodnota: %s</string>
+
+    <string name="otazka">Zadaj kolko stran ma kocka</string>
+
+    <string name="hod_kockou">Hod kockou!</string>
+
+    <string name="hod_button">Hod</string>
+
+    <string name="kocky_description">Obrazok kociek</string>
+
+    <string name="zadaj_cislo">Zadaj cislo</string>
+</resources>
